@@ -1,1 +1,1 @@
-# CleanArchitectureDotNetCore
+# Clean Architecture in .NET Core
